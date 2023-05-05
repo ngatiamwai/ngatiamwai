@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ngatiamwai
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html5 css3 java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ngatiamwai25@gmail.com or +254793693224
 
 <!---
