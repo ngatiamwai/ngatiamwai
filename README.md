@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Hardware Online**
 
-- 🌱 I’m currently learning **React, Flutter, Django**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **UI/UX Projects and JavaScript Projects**
 
