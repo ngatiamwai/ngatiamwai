@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Ngatia+Mwai!;Motivated+and+Passionate+UX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Ngatia+Mwai!;Motivated+and+Passionate+UX+Designer;And+Frontend+Developer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Ngatia Mwai</h1>
 <h3 align="center">A passionate UI/UX designer and frontend developer from Kenya</h3>
